@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logging = logging.getLogger("mlProjectLogger")
+logger = logging.getLogger("mlProjectLogger")

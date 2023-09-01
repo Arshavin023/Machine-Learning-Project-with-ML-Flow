@@ -5,7 +5,7 @@ with open("README.md","r",encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "ML Project with ML-Flow"
+REPO_NAME = "Machine-Learning-Project-with-ML-Flow"
 AUTHOR_USERNAME = "Uche Nnodim"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "uchejudennodim@gmail.com"
@@ -20,7 +20,7 @@ setuptools.setup(
     long_description_content = "text/markdown",
     url = f"https://github.com/{AUTHOR_USERNAME}/{REPO_NAME}",
     project_urls = {
-        "Bug Tracker": f"https://github.com/{AUTHOR_USERNAME}/{REPO_NAME}/issues"
+        "Bug Tracker": f"https://github.com/{AUTHOR_USERNAME}/{REPO_NAME}/issues",
         },
     package_dir = {"":"src"},
     packages = setuptools.find_packages(where = "src")
