@@ -65,7 +65,7 @@ MLFLOW_TRACKING=
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow \
 MLFLOW_TRACKING_USERNAME=Arshavin023 \
-MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622 \
+MLFLOW_TRACKING_PASSWORD=YOUR_PASSWORD \
 python script.py
 
 Run this to export as env variables:
@@ -74,12 +74,12 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow
 export MLFLOW_TRACKING_USERNAME=Arshavin023
-export MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+export MLFLOW_TRACKING_PASSWORD=YOUR_PASSWORD
 
 ```
 
 ```anaconda
 set MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow
 set MLFLOW_TRACKING_USERNAME=Arshavin023
-set MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+set MLFLOW_TRACKING_PASSWORD=YOUR_PASSWORD
 ```
