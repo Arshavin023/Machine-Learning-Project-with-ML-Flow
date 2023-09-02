@@ -1,0 +1,9 @@
+How to convert jupyter to modular codes
+
+1. Update config_entity.py with @dataclass
+2. Update configuration.py with function from configuration.py
+3. Navigate to components folder and create .py file, load necessary packages
+and update with Class from entity
+4. Navigate to pipeline folder, create .py file, load necessary packages
+and update with Class from components and pipeline
+5. Navigate to main.py and initialize .py file from step 4. 
