@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Videos/mlflow/mlruns/0/547a5b2212f44b788a7ccec205603d32/artifacts
+end_time: 1693688134053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 547a5b2212f44b788a7ccec205603d32
+run_name: intrigued-snake-323
+run_uuid: 547a5b2212f44b788a7ccec205603d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693688128272
+status: 3
+tags: []
+user_id: Hp

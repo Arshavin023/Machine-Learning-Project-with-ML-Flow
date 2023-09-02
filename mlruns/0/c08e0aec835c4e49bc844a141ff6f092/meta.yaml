@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Videos/mlflow/mlruns/0/c08e0aec835c4e49bc844a141ff6f092/artifacts
+end_time: 1693688446007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c08e0aec835c4e49bc844a141ff6f092
+run_name: upbeat-pug-482
+run_uuid: c08e0aec835c4e49bc844a141ff6f092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693688440052
+status: 3
+tags: []
+user_id: Hp

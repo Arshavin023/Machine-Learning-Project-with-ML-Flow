@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Videos/mlflow/mlruns/0/4f1dab5b15d3401ab80bb633ac799140/artifacts
+end_time: 1693689437948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f1dab5b15d3401ab80bb633ac799140
+run_name: likeable-lynx-120
+run_uuid: 4f1dab5b15d3401ab80bb633ac799140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693689432294
+status: 3
+tags: []
+user_id: Hp

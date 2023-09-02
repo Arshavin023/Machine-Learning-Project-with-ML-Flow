@@ -10,3 +10,76 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+# How to run this project
+
+## STEPs:
+Clone the repository
+
+```bash
+https://github.com/Arshavin023/Machine-Learning-Project-with-ML-Flow
+```
+'''
+### STEP 01- Create a conda environment after opening the repo
+
+```bash
+conda create -n .venv python=3.8 -y
+```
+
+```bash 
+conda activate .venv
+```
+
+
+'''
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python app.py
+```
+
+Now,
+```bash
+open up your local host and port
+```
+
+
+
+## MLflow
+
+[Documentation](https://mlflow.org/docs/latest/index.html)
+
+
+
+##### cmd
+- mlflow ui
+
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING=
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow \
+MLFLOW_TRACKING_USERNAME=Arshavin023 \
+MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow
+export MLFLOW_TRACKING_USERNAME=Arshavin023
+export MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+
+```
+
+```anaconda
+set MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/Machine-Learning-Project-with-ML-Flow.mlflow
+set MLFLOW_TRACKING_USERNAME=Arshavin023
+set MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+```
